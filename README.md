@@ -1,16 +1,36 @@
-## Hi there 👋
+# stellaris-verse
+# 🌌 Hi, I'm Zehan Royyan
 
-<!--
-**stellaris-verse/stellaris-verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I am an aspiring **AI** and **Data Science** enthusiast, passionate about turning data into meaningful insights and solutions. My interests range from analyzing and predicting company or stock data 📊 to building intuitive web interfaces for data visualization — because good data deserves to be seen and understood.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack (Still Learning)
+- **AI & Machine Learning:**  
+  Python, Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Data Visualization:**  
+  Matplotlib, Seaborn, Power BI  
+- **Web Development (Side Interest):**  
+  HTML, CSS, JavaScript, Flask  
+- **Tools:**  
+  Git, VS Code, Jupyter Notebook
+
+> _Currently, I’m on a learning journey to deepen my understanding and skills in these tools and technologies. I’m a proud learner—curious and always eager to grow!_
+
+---
+
+## 🌠 About “stellaris verse”
+> The name "stellaris verse" reflects my ever-expanding curiosity—just like the universe itself.  
+> Every dataset is a galaxy waiting to be explored, and every insight a new star discovered. ✨
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com)
+- [Instagram](https://instagram.com)
+- [About me & Portfolio](https://zehanroyyan.vercel.app/)
+> I am currently in the process of building my portfolio.
+---
+
+Thank you for visiting my profile! If you have ideas, want to collaborate, or just want to connect, feel free to reach out.  
+Let's keep exploring the universe of data together!

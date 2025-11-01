@@ -26,8 +26,8 @@ Welcome! I am an aspiring **AI** and **Data Science** enthusiast, passionate abo
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com)
-- [Instagram](https://instagram.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-zehan-royyan-wahyudi-a4b033327/)
+- [Instagram](https://instagram.com/zehanrw)
 - [About me & Portfolio](https://zehanroyyan.vercel.app/)
 > I am currently in the process of building my portfolio.
 ---
